@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3d9d3239f23c3643920b1bb74425084, type: 3}
+  m_Name: HapticReferencesScriptable
+  m_EditorClassIdentifier: 
+  _haptics:
+  - Key: hit_human
+    Value: {fileID: 2460798210113038985, guid: d410d504098e3b3399408c45efa81130, type: 3}
+  - Key: hit_wall
+    Value: {fileID: 2460798210113038985, guid: aa7e4b93cfc531a5b93ad021fc17d39f, type: 3}
+  - Key: click
+    Value: {fileID: 2460798210113038985, guid: a77c9d6804063b17bcf7e7e2256e42fb, type: 3}
+  - Key: spine_swing
+    Value: {fileID: 2460798210113038985, guid: 1132ca9d0c293276ac7f6508d6df2e78, type: 3}
+  - Key: acoustic_guitar
+    Value: {fileID: 2460798210113038985, guid: 2bab2829af4e37f5ae8eeee36a4c1f72, type: 3}
+  - Key: banjo
+    Value: {fileID: 2460798210113038985, guid: 1ca7626ee16438a890f4d66029d42ec0, type: 3}
+  - Key: box_open
+    Value: {fileID: 2460798210113038985, guid: 9b3baa5323a8388e985d367f2f5f4887, type: 3}
+  - Key: can_drop
+    Value: {fileID: 2460798210113038985, guid: aa7e4b93cfc531a5b93ad021fc17d39f, type: 3}
+  - Key: clothing
+    Value: {fileID: 2460798210113038985, guid: b0bea83d189f378889af2a81cffae02e, type: 3}
+  - Key: drill
+    Value: {fileID: 2460798210113038985, guid: cab130ac44a23b9988ba5b1a532d8b2b, type: 3}
+  - Key: kick
+    Value: {fileID: 2460798210113038985, guid: 7464cfcc149735d0a43abdc61c51efd6, type: 3}
+  - Key: sword_hit
+    Value: {fileID: 2460798210113038985, guid: 2356aa4d95a231e187d0b90150b19596, type: 3}
+  - Key: water
+    Value: {fileID: 2460798210113038985, guid: ff15cfbd0bad37bd9ccb872cef6f5004, type: 3}
+  - Key: select
+    Value: {fileID: 2460798210113038985, guid: 3f52f7be47b03c0ca5fa3b3f981cc8c5, type: 3}
+  - Key: close
+    Value: {fileID: 2460798210113038985, guid: faf3085ce5c03968a3c0d6cbae18c8bc, type: 3}
+  - Key: error
+    Value: {fileID: 2460798210113038985, guid: 8466fbb253d6335682dd99416389d42e, type: 3}
