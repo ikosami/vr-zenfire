@@ -1,0 +1,2 @@
+C:\Users\takuy\workspace\github-sourcetree\ns-vr-template\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\takuy\workspace\github-sourcetree\ns-vr-template\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt

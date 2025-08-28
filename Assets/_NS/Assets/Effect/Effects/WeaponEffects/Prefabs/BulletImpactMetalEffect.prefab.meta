@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 02a509a7fa70ed740ba4197e20c5d32d
+timeCreated: 1473691201
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241288
+  packageName: Advanced Multiplayer Game Template
+  packageVersion: 1.10
+  assetPath: Assets/Advanced Multiplayer Game Template by Redicion Studio/Effects/WeaponEffects/Prefabs/BulletImpactMetalEffect.prefab
+  uploadId: 745560

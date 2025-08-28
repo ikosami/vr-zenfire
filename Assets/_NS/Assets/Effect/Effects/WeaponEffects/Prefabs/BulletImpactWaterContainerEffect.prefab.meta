@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a60a75fdadab5de428529a5b8ef0426a
+timeCreated: 1473778414
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241288
+  packageName: Advanced Multiplayer Game Template
+  packageVersion: 1.10
+  assetPath: Assets/Advanced Multiplayer Game Template by Redicion Studio/Effects/WeaponEffects/Prefabs/BulletImpactWaterContainerEffect.prefab
+  uploadId: 745560

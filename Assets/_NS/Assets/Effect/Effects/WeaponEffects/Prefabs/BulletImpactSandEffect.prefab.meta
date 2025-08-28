@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a475880e7da0e9548aa05cb7933752cd
+timeCreated: 1473691204
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241288
+  packageName: Advanced Multiplayer Game Template
+  packageVersion: 1.10
+  assetPath: Assets/Advanced Multiplayer Game Template by Redicion Studio/Effects/WeaponEffects/Prefabs/BulletImpactSandEffect.prefab
+  uploadId: 745560

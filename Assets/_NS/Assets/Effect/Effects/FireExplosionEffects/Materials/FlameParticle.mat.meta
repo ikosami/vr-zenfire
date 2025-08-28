@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bd8c234372a08af408b82538314378fe
+timeCreated: 1471521655
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241288
+  packageName: Advanced Multiplayer Game Template
+  packageVersion: 1.10
+  assetPath: Assets/Advanced Multiplayer Game Template by Redicion Studio/Effects/FireExplosionEffects/Materials/FlameParticle.mat
+  uploadId: 745560

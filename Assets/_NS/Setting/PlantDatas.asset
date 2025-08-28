@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c250f68159d8af940935f48c8a4abb00, type: 3}
+  m_Name: PlantDatas
+  m_EditorClassIdentifier: 
+  plantDatas:
+  - PlantName: plant1
+    Sprite: {fileID: 21300000, guid: 9c54bd461bd3a404997a97e5c6b39751, type: 3}
+    PlantObjs:
+    - PlantObj: {fileID: 4311892118227446274, guid: e1f68b6ae50eb614fa3a1bb97c0fa4e0, type: 3}
+      par: 0
+    SeedPrice: 0
+    PlantPrice: 25
+    PlantTime: 10
+    HaveItem: {fileID: 954241926757137335, guid: 950edfb98422a6341a826e59375844db, type: 3}
+  - PlantName: plant2
+    Sprite: {fileID: 21300000, guid: c06099ab109b3b84c9c74035d3c7408e, type: 3}
+    PlantObjs:
+    - PlantObj: {fileID: 4311892118227446274, guid: e1f68b6ae50eb614fa3a1bb97c0fa4e0, type: 3}
+      par: 0
+    - PlantObj: {fileID: 4311892118227446274, guid: e1f68b6ae50eb614fa3a1bb97c0fa4e0, type: 3}
+      par: 0.5
+    - PlantObj: {fileID: 7684240413875258714, guid: cc628275563b3694d80bef0557c866df, type: 3}
+      par: 1
+    SeedPrice: 50
+    PlantPrice: 100
+    PlantTime: 30
+    HaveItem: {fileID: 954241926757137335, guid: 950edfb98422a6341a826e59375844db, type: 3}
+  - PlantName: plant3
+    Sprite: {fileID: 21300000, guid: 2a61c352cf5bce341ad2077f1b45c704, type: 3}
+    PlantObjs:
+    - PlantObj: {fileID: 4311892118227446274, guid: e1f68b6ae50eb614fa3a1bb97c0fa4e0, type: 3}
+      par: 0
+    - PlantObj: {fileID: 4311892118227446274, guid: e1f68b6ae50eb614fa3a1bb97c0fa4e0, type: 3}
+      par: 0.5
+    - PlantObj: {fileID: 7684240413875258714, guid: cc628275563b3694d80bef0557c866df, type: 3}
+      par: 1
+    SeedPrice: 200
+    PlantPrice: 500
+    PlantTime: 60
+    HaveItem: {fileID: 954241926757137335, guid: 950edfb98422a6341a826e59375844db, type: 3}
+  - PlantName: plant4
+    Sprite: {fileID: 21300000, guid: c686792ebc7626c4db2f2af2762940b5, type: 3}
+    PlantObjs:
+    - PlantObj: {fileID: 4311892118227446274, guid: e1f68b6ae50eb614fa3a1bb97c0fa4e0, type: 3}
+      par: 0
+    - PlantObj: {fileID: 4311892118227446274, guid: e1f68b6ae50eb614fa3a1bb97c0fa4e0, type: 3}
+      par: 0.5
+    - PlantObj: {fileID: 7684240413875258714, guid: cc628275563b3694d80bef0557c866df, type: 3}
+      par: 1
+    SeedPrice: 1000
+    PlantPrice: 2000
+    PlantTime: 120
+    HaveItem: {fileID: 954241926757137335, guid: 950edfb98422a6341a826e59375844db, type: 3}
+  - PlantName: plant5
+    Sprite: {fileID: 21300000, guid: 7c7aadddad221ea48a82b8742d83c2e8, type: 3}
+    PlantObjs:
+    - PlantObj: {fileID: 4311892118227446274, guid: e1f68b6ae50eb614fa3a1bb97c0fa4e0, type: 3}
+      par: 0
+    - PlantObj: {fileID: 4311892118227446274, guid: e1f68b6ae50eb614fa3a1bb97c0fa4e0, type: 3}
+      par: 0.5
+    - PlantObj: {fileID: 7684240413875258714, guid: cc628275563b3694d80bef0557c866df, type: 3}
+      par: 1
+    SeedPrice: 5000
+    PlantPrice: 10000
+    PlantTime: 160
+    HaveItem: {fileID: 954241926757137335, guid: 950edfb98422a6341a826e59375844db, type: 3}
+  - PlantName: plant6
+    Sprite: {fileID: 21300000, guid: 0fa8f4ea3e1110c4099083b0fcd59de3, type: 3}
+    PlantObjs:
+    - PlantObj: {fileID: 4311892118227446274, guid: e1f68b6ae50eb614fa3a1bb97c0fa4e0, type: 3}
+      par: 0
+    - PlantObj: {fileID: 4311892118227446274, guid: e1f68b6ae50eb614fa3a1bb97c0fa4e0, type: 3}
+      par: 0.5
+    - PlantObj: {fileID: 7684240413875258714, guid: cc628275563b3694d80bef0557c866df, type: 3}
+      par: 1
+    SeedPrice: 50000
+    PlantPrice: 80000
+    PlantTime: 250
+    HaveItem: {fileID: 954241926757137335, guid: 950edfb98422a6341a826e59375844db, type: 3}

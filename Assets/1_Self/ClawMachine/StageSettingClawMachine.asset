@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6acd4b40c1779e349bf27a423312b719, type: 3}
+  m_Name: StageSettingClawMachine
+  m_EditorClassIdentifier: 
+  stageParamDatas:
+  - itemList:
+    - {fileID: 2380913581400542648, guid: d471dfce0feaa564c95a9edabfcd6c5c, type: 3}
+    popCnt: 4b000000
+    prefab: {fileID: 671156570207198274, guid: a39be0b0b4cf5284a9e0112c0fb8ea07, type: 3}
+    completeCount: 10

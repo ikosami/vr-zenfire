@@ -1,0 +1,153 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b3d8e6f0ffe86340b0caf2653fd5dc0, type: 3}
+  m_Name: SoundSet
+  m_EditorClassIdentifier: 
+  Data:
+  - Name: bgm
+    Sound: {fileID: 8300000, guid: 2bedb4dd2288f69419bf99abae3f6baf, type: 3}
+    PitchCustom: 0
+    VolumeCustom: 0
+    Pitch: 1
+    Volume: 1
+  - Name: voice_knocked_1
+    Sound: {fileID: 8300000, guid: 579316e02cb321547aeab73534bb5931, type: 3}
+    PitchCustom: 0
+    VolumeCustom: 0
+    Pitch: 1
+    Volume: 1
+  - Name: voice_knocked_2
+    Sound: {fileID: 8300000, guid: 13ee95b54b84cf248b34f5c39101b0f1, type: 3}
+    PitchCustom: 0
+    VolumeCustom: 0
+    Pitch: 1
+    Volume: 1
+  - Name: voice_knocked_3
+    Sound: {fileID: 8300000, guid: efca69038ed55144d8f1e5b1f10baba5, type: 3}
+    PitchCustom: 0
+    VolumeCustom: 0
+    Pitch: 1
+    Volume: 1
+  - Name: smash
+    Sound: {fileID: 8300000, guid: 896007dd8b48c104da3bb9d93a0ca6ea, type: 3}
+    PitchCustom: 0
+    VolumeCustom: 1
+    Pitch: 1
+    Volume: 3
+  - Name: hit
+    Sound: {fileID: 8300000, guid: 6e2ccf423923a7940abc947c0f0144c8, type: 3}
+    PitchCustom: 0
+    VolumeCustom: 0
+    Pitch: 1
+    Volume: 1
+  - Name: wall_break
+    Sound: {fileID: 8300000, guid: 454c429ec8d7b234ab33a0e197e41c49, type: 3}
+    PitchCustom: 0
+    VolumeCustom: 0
+    Pitch: 1
+    Volume: 1
+  - Name: three
+    Sound: {fileID: 8300000, guid: c01dd17d2e628c34cb12e7f14d186075, type: 3}
+    PitchCustom: 0
+    VolumeCustom: 0
+    Pitch: 1
+    Volume: 1
+  - Name: two
+    Sound: {fileID: 8300000, guid: 1d54b650f1aef40459d1cd8eb59caae8, type: 3}
+    PitchCustom: 0
+    VolumeCustom: 0
+    Pitch: 1
+    Volume: 1
+  - Name: one
+    Sound: {fileID: 8300000, guid: 1e6f095d7b05cb144a159ee1ca148f37, type: 3}
+    PitchCustom: 0
+    VolumeCustom: 0
+    Pitch: 1
+    Volume: 1
+  - Name: start
+    Sound: {fileID: 8300000, guid: 3c9b0306a52d42c49a41e1fe5848b272, type: 3}
+    PitchCustom: 0
+    VolumeCustom: 0
+    Pitch: 1.5
+    Volume: 1
+  - Name: gun_fire
+    Sound: {fileID: 8300000, guid: c2e3e18f785fc6a4188a5480ea73f85a, type: 3}
+    PitchCustom: 0
+    VolumeCustom: 0
+    Pitch: 1.5
+    Volume: 1
+  - Name: pop_police
+    Sound: {fileID: 8300000, guid: 904a6e9d333b1654ea86c97662bb0827, type: 3}
+    PitchCustom: 0
+    VolumeCustom: 0
+    Pitch: 1
+    Volume: 1
+  - Name: punch
+    Sound: {fileID: 8300000, guid: 38714cb1cca14df4986d9c1a9587416f, type: 3}
+    PitchCustom: 0
+    VolumeCustom: 0
+    Pitch: 1
+    Volume: 1
+  - Name: gun_launcher
+    Sound: {fileID: 8300000, guid: 3f749ac1c530ac4419dc6734ec33977b, type: 3}
+    PitchCustom: 0
+    VolumeCustom: 0
+    Pitch: 1
+    Volume: 1
+  - Name: gun_shoot
+    Sound: {fileID: 8300000, guid: bdb9e86513c4edf4a9042e1ac367a82d, type: 3}
+    PitchCustom: 0
+    VolumeCustom: 0
+    Pitch: 1
+    Volume: 1
+  - Name: harvest
+    Sound: {fileID: 8300000, guid: e39d0d2d778699a4b80f7847342f037e, type: 3}
+    PitchCustom: 0
+    VolumeCustom: 0
+    Pitch: 1
+    Volume: 1
+  - Name: car_door
+    Sound: {fileID: 8300000, guid: 8c1da3737cb0d7646a5d8035a7a54df2, type: 3}
+    PitchCustom: 0
+    VolumeCustom: 0
+    Pitch: 1
+    Volume: 1
+  - Name: car_attack
+    Sound: {fileID: 8300000, guid: 8cd0c58be9bc26a4eb7c1cb121d967b5, type: 3}
+    PitchCustom: 0
+    VolumeCustom: 0
+    Pitch: 1
+    Volume: 1
+  - Name: target_drop
+    Sound: {fileID: 8300000, guid: 74bded32103d10c40a54be1f9e3cd2cb, type: 3}
+    PitchCustom: 0
+    VolumeCustom: 0
+    Pitch: 1
+    Volume: 1
+  - Name: gun_shoot2
+    Sound: {fileID: 8300000, guid: a0b3a69e11fd8f64e9efccaeb90987da, type: 3}
+    PitchCustom: 0
+    VolumeCustom: 0
+    Pitch: 1
+    Volume: 1
+  - Name: launcher_hit
+    Sound: {fileID: 8300000, guid: c1ef54f0316b64b4b9ffd40274b84dd3, type: 3}
+    PitchCustom: 0
+    VolumeCustom: 0
+    Pitch: 1
+    Volume: 1
+  - Name: coin
+    Sound: {fileID: 8300000, guid: 92734c7cbe7ca294aac218ceb3a59cd1, type: 3}
+    PitchCustom: 0
+    VolumeCustom: 0
+    Pitch: 1
+    Volume: 1

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5e0b7dc1782a986469ed1446388360f5
+timeCreated: 1473092108
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241288
+  packageName: Advanced Multiplayer Game Template
+  packageVersion: 1.10
+  assetPath: Assets/Advanced Multiplayer Game Template by Redicion Studio/Effects/Shared/Shaders/SurfaceShader_VC.shader
+  uploadId: 745560

@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61f09130c5610fa46839d695a4dd578e, type: 3}
+  m_Name: PlanterDatas
+  m_EditorClassIdentifier: 
+  planterPrices: 000000000000000032000000f4010000f4010000f4010000f4010000dc050000dc050000dc050000dc050000dc0500008813000088130000881300008813000088130000a8610000a8610000a8610000a8610000a861000030570500305705003057050030570500

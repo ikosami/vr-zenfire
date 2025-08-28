@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c81a0874bdac7104d9e85c7df37a5e84, type: 3}
+  m_Name: WeaponDatas
+  m_EditorClassIdentifier: 
+  Weapons:
+  - WeaponName: Gun1
+    WeaponObj: {fileID: 8351238255199226729, guid: b81f834c2e72326458cc0666bd61d1a6, type: 3}
+    Cost: 1000
+    Speed: 30
+    Damage: 200
+    SpanTime: 0.5
+    audioName: gun_shoot
+    BulletNum: 1
+  - WeaponName: Gun2
+    WeaponObj: {fileID: 7064840336907530102, guid: 7620a84851561354da8114fc197461c7, type: 3}
+    Cost: 12000
+    Speed: 30
+    Damage: 800
+    SpanTime: 0.75
+    audioName: gun_shoot2
+    BulletNum: 10
+  - WeaponName: Gun3
+    WeaponObj: {fileID: 7064840336907530102, guid: dbd0370826761884b997390af74f0017, type: 3}
+    Cost: 50000
+    Speed: 30
+    Damage: 500
+    SpanTime: 0.15
+    audioName: gun_shoot
+    BulletNum: 1
+  - WeaponName: Gun4
+    WeaponObj: {fileID: 7064840336907530102, guid: 2c56912e5839212438b758894a646070, type: 3}
+    Cost: 200000
+    Speed: 35
+    Damage: 1000
+    SpanTime: 0.75
+    audioName: gun_launcher
+    BulletNum: 1

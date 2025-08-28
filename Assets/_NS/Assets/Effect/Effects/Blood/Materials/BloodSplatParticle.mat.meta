@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3ea2e59d181ffce4e97d5d1d07a22c05
+timeCreated: 1473851832
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241288
+  packageName: Advanced Multiplayer Game Template
+  packageVersion: 1.10
+  assetPath: Assets/Advanced Multiplayer Game Template by Redicion Studio/Effects/Blood/Materials/BloodSplatParticle.mat
+  uploadId: 745560
