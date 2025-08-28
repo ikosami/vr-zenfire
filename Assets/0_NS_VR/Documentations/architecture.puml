@@ -1,0 +1,49 @@
+@startuml
+!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Container.puml
+!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Component.puml
+
+Person(vr_user, "VR User", "Oculus Quest VR User")
+
+System_Boundary(vr_template, "NS VR Template") {
+    Container(core_system, "Core VR System", "Unity/C#", "Core VR functionality and systems")
+    Container(integration_layer, "XR Integration Layer", "Unity/C#", "XR and platform integrations")
+    Container(feature_modules, "Feature Modules", "Unity/C#", "Additional VR features and tools")
+
+    Component(input_system, "Input System", "C#", "Handles VR input and interactions")
+    Component(movement_system, "Movement System", "C#", "Controls player movement and locomotion")
+    Component(hand_system, "Hand System", "C#", "Manages hand tracking and poses")
+    Component(haptics_system, "Haptics System", "C#", "Controls haptic feedback")
+    Component(event_system, "Event System", "C#", "Manages VR events and communication")
+
+    Component(meta_xr, "Meta XR Integration", "C#", "Meta/Oculus SDK integration")
+    Component(openxr, "OpenXR Plugin", "C#", "OpenXR standard support")
+    Component(xr_toolkit, "XR Interaction Toolkit", "C#", "Unity XR interaction system")
+
+    Component(ui_system, "VR UI System", "Unity/C#", "VR-specific user interface")
+    Component(paint_system, "Paint System", "Unity/C#", "3D painting capabilities")
+    Component(character_system, "Character System", "Unity/C#", "VR character management")
+    Component(physics_system, "Physics System", "Unity/C#", "Ragdoll and physics interactions")
+}
+
+' Core System relationships
+Rel(vr_user, core_system, "Interacts with")
+Rel(input_system, core_system, "Part of")
+Rel(movement_system, core_system, "Part of")
+Rel(hand_system, core_system, "Part of")
+Rel(haptics_system, core_system, "Part of")
+Rel(event_system, core_system, "Part of")
+
+' Integration Layer relationships
+Rel(meta_xr, integration_layer, "Part of")
+Rel(openxr, integration_layer, "Part of")
+Rel(xr_toolkit, integration_layer, "Part of")
+Rel(integration_layer, core_system, "Provides platform support")
+
+' Feature Module relationships
+Rel(ui_system, feature_modules, "Part of")
+Rel(paint_system, feature_modules, "Part of")
+Rel(character_system, feature_modules, "Part of")
+Rel(physics_system, feature_modules, "Part of")
+Rel(feature_modules, core_system, "Extends functionality")
+
+@enduml
