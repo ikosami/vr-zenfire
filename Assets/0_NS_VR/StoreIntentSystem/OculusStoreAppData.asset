@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a376156b58c6b64e8fa0fa980f2d6cf, type: 3}
+  m_Name: OculusStoreAppData
+  m_EditorClassIdentifier: 
+  storeApps:
+  - key: self
+    appId: 8765904950204900
+    thumbnail: {fileID: 0}
+  - key: ns_app_1
+    appId: 9627751150586191
+    thumbnail: {fileID: 21300000, guid: 59a7d18f56d79cd44ac6a8e9bd7aedff, type: 3}
