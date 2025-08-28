@@ -1,0 +1,21 @@
+{
+  "name": "com.newstory.vr-template",
+  "version": "1.0.0",
+  "displayName": "NS VR Template",
+  "description": "VR template for Oculus Quest with modular systems including input, movement, physics, weapons, and UI",
+  "unity": "2022.3",
+  "dependencies": {
+    "com.unity.xr.oculus": "4.0.0",
+    "com.unity.xr.interaction.toolkit": "2.5.2"
+  },
+  "keywords": [
+    "vr",
+    "oculus",
+    "quest",
+    "template"
+  ],
+  "author": {
+    "name": "NewStory Inc.",
+    "url": "https://newstory.co.jp"
+  }
+}
