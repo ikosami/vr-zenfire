@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d6f675f8f923ce4db51b7d9d335ecb6, type: 3}
+  m_Name: HandPose_Guu_L
+  m_EditorClassIdentifier: 
+  PoseName: Guu
+  Rigs:
+  - ObjectName: L_IndexMetacarpal
+    Position: {x: 0.019818999, y: -0.009505, z: 0.036447998}
+    Rotation: {x: -0, y: -0, z: -0}
+    Scale: {x: 1, y: 1, z: 1}
+  - ObjectName: L_IndexProximal
+    Position: {x: 0.0037319586, y: 0.0021893643, z: 0.059561018}
+    Rotation: {x: 85.813995, y: 317.31006, z: 307.77548}
+    Scale: {x: 1.0000446, y: 1.0000408, z: 0.999991}
+  - ObjectName: L_IndexIntermediate
+    Position: {x: -0.000002759968, y: 0.000019195639, z: 0.037935346}
+    Rotation: {x: 64.88405, y: 23.229975, z: 15.414592}
+    Scale: {x: 0.99995506, y: 0.9999494, z: 0.9999497}
+  - ObjectName: L_IndexDistal
+    Position: {x: -0.0000009742072, y: 0.000013840155, z: 0.024297304}
+    Rotation: {x: 63.658997, y: 0.84024745, z: 4.265935}
+    Scale: {x: 1.0000451, y: 1.0000081, z: 1.0000004}
+  - ObjectName: L_IndexTip
+    Position: {x: -0.00029491488, y: 0.0010254673, z: 0.022364605}
+    Rotation: {x: 321.8733, y: 0.000010601987, z: -0.0000130355465}
+    Scale: {x: 1, y: 1, z: 1}
+  - ObjectName: L_LittleMetacarpal
+    Position: {x: -0.022999, y: -0.009419999, z: 0.034073997}
+    Rotation: {x: 5.3710136, y: 344.6166, z: 23.41809}
+    Scale: {x: 1.0000185, y: 1.0000081, z: 0.9999589}
+  - ObjectName: L_LittleProximal
+    Position: {x: 0.0000033089282, y: 0.0000028666461, z: 0.04565197}
+    Rotation: {x: 72.99164, y: 314.09433, z: 319.47845}
+    Scale: {x: 0.9999562, y: 1.0000366, z: 1.0000681}
+  - ObjectName: L_LittleIntermediate
+    Position: {x: 0.0000026180626, y: 0.0000036152621, z: 0.030722847}
+    Rotation: {x: 55.517265, y: 165.37233, z: 162.30417}
+    Scale: {x: 1.0000147, y: 1.0000129, z: 0.99994457}
+  - ObjectName: L_LittleDistal
+    Position: {x: 0.0000006109387, y: -0.00000040605144, z: 0.020311024}
+    Rotation: {x: 72.00833, y: 7.155113, z: 1.6728985}
+    Scale: {x: 1.0000222, y: 0.99996865, z: 0.9999735}
+  - ObjectName: L_LittleTip
+    Position: {x: 0.00024632577, y: 0.0012151983, z: 0.021923328}
+    Rotation: {x: -3.1805547e-15, y: 3.1805547e-15, z: -1.5902774e-15}
+    Scale: {x: 1, y: 1, z: 1}
+  - ObjectName: L_MiddleMetacarpal
+    Position: {x: 0.00361, y: -0.007648, z: 0.034286}
+    Rotation: {x: -0, y: -0, z: -0}
+    Scale: {x: 1, y: 1, z: 1}
+  - ObjectName: L_MiddleProximal
+    Position: {x: -0.001884006, y: 0.0051050424, z: 0.061364137}
+    Rotation: {x: 82.373726, y: 4.773714, z: 6.3596983}
+    Scale: {x: 0.9999646, y: 1.0000069, z: 1.000008}
+  - ObjectName: L_MiddleIntermediate
+    Position: {x: -0.00000028234626, y: 0.00000415367, z: 0.042929854}
+    Rotation: {x: 87.40166, y: 30.380457, z: 30.915352}
+    Scale: {x: 1.0000315, y: 0.99999595, z: 1.000038}
+  - ObjectName: L_MiddleDistal
+    Position: {x: 0.00000020133398, y: 0.0000005830103, z: 0.02754844}
+    Rotation: {x: 56.807987, y: 7.056497, z: 8.5004835}
+    Scale: {x: 0.9999718, y: 1.0000138, z: 0.99996346}
+  - ObjectName: L_MiddleTip
+    Position: {x: -0.00030950914, y: 0.0011371507, z: 0.02496384}
+    Rotation: {x: 3.1805547e-15, y: 3.9756934e-16, z: 7.951387e-16}
+    Scale: {x: 1, y: 1, z: 1}
+  - ObjectName: L_Palm
+    Position: {x: 0.000863, y: -0.001272, z: 0.047823}
+    Rotation: {x: -0, y: -0, z: -0}
+    Scale: {x: 1, y: 1, z: 1}
+  - ObjectName: L_RingMetacarpal
+    Position: {x: -0.014992, y: -0.0060159997, z: 0.034776}
+    Rotation: {x: -0, y: -0, z: -0}
+    Scale: {x: 1, y: 1, z: 1}
+  - ObjectName: L_RingProximal
+    Position: {x: -0.002473033, y: -0.00051036617, z: 0.053918976}
+    Rotation: {x: 83.12936, y: 43.40538, z: 54.01541}
+    Scale: {x: 0.99998975, y: 1.0000367, z: 1.0000347}
+  - ObjectName: L_RingIntermediate
+    Position: {x: 0.0000010019678, y: 0.0000027826898, z: 0.038995918}
+    Rotation: {x: 82.827805, y: 139.94414, z: 140.29648}
+    Scale: {x: 1.0000359, y: 0.9999273, z: 0.99994177}
+  - ObjectName: L_RingDistal
+    Position: {x: -0.0000010942648, y: -0.0000005476575, z: 0.026573464}
+    Rotation: {x: 81.4622, y: 12.201501, z: 9.018663}
+    Scale: {x: 0.9999347, y: 0.9999719, z: 1.0000098}
+  - ObjectName: L_RingTip
+    Position: {x: -0.0002563861, y: 0.0016081122, z: 0.024326071}
+    Rotation: {x: -0.0033718369, y: -3.1805547e-15, z: 0}
+    Scale: {x: 1, y: 1.0000552, z: 1}
+  - ObjectName: L_ThumbMetacarpal
+    Position: {x: 0.030217975, y: -0.016083531, z: 0.034498014}
+    Rotation: {x: 26.520952, y: 24.44654, z: 282.93036}
+    Scale: {x: 1.0000204, y: 1.0000343, z: 0.9999787}
+  - ObjectName: L_ThumbProximal
+    Position: {x: -0.0000016213996, y: -0.000004774727, z: 0.032513794}
+    Rotation: {x: 44.215916, y: 28.998846, z: 23.455439}
+    Scale: {x: 0.9999928, y: 0.999997, z: 0.9999632}
+  - ObjectName: L_ThumbDistal
+    Position: {x: -0.0000012777839, y: -0.0000017229519, z: 0.033794504}
+    Rotation: {x: 69.3172, y: 343.98682, z: 335.73358}
+    Scale: {x: 0.9999879, y: 0.9999645, z: 1.0000014}
+  - ObjectName: L_ThumbTip
+    Position: {x: -0.00067067984, y: 0.0010256439, z: 0.02459195}
+    Rotation: {x: -2.2069532e-32, y: -3.1805547e-15, z: -3.9756934e-16}
+    Scale: {x: 1, y: 1, z: 1}
