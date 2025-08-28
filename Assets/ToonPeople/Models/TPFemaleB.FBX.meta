@@ -1,0 +1,2926 @@
+fileFormatVersion: 2
+guid: 5f31c044f02830545a2558b3b7eed824
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: ROOT
+  - first:
+      1: 100002
+    second: TP
+  - first:
+      1: 100004
+    second: TP Head
+  - first:
+      1: 100006
+    second: TP L Calf
+  - first:
+      1: 100008
+    second: TP L Clavicle
+  - first:
+      1: 100010
+    second: TP L Finger0
+  - first:
+      1: 100012
+    second: TP L Finger01
+  - first:
+      1: 100014
+    second: TP L Finger02
+  - first:
+      1: 100016
+    second: TP L Finger1
+  - first:
+      1: 100018
+    second: TP L Finger11
+  - first:
+      1: 100020
+    second: TP L Finger12
+  - first:
+      1: 100022
+    second: TP L Finger2
+  - first:
+      1: 100024
+    second: TP L Finger21
+  - first:
+      1: 100026
+    second: TP L Finger22
+  - first:
+      1: 100028
+    second: TP L Finger3
+  - first:
+      1: 100030
+    second: TP L Finger31
+  - first:
+      1: 100032
+    second: TP L Finger32
+  - first:
+      1: 100034
+    second: TP L Finger4
+  - first:
+      1: 100036
+    second: TP L Finger41
+  - first:
+      1: 100038
+    second: TP L Finger42
+  - first:
+      1: 100040
+    second: TP L Foot
+  - first:
+      1: 100042
+    second: TP L Forearm
+  - first:
+      1: 100044
+    second: TP L Hand
+  - first:
+      1: 100046
+    second: TP L Thigh
+  - first:
+      1: 100048
+    second: TP L Toe0
+  - first:
+      1: 100050
+    second: TP L UpperArm
+  - first:
+      1: 100052
+    second: TP Neck
+  - first:
+      1: 100054
+    second: TP Pelvis
+  - first:
+      1: 100056
+    second: TP R Calf
+  - first:
+      1: 100058
+    second: TP R Clavicle
+  - first:
+      1: 100060
+    second: TP R Finger0
+  - first:
+      1: 100062
+    second: TP R Finger01
+  - first:
+      1: 100064
+    second: TP R Finger02
+  - first:
+      1: 100066
+    second: TP R Finger1
+  - first:
+      1: 100068
+    second: TP R Finger11
+  - first:
+      1: 100070
+    second: TP R Finger12
+  - first:
+      1: 100072
+    second: TP R Finger2
+  - first:
+      1: 100074
+    second: TP R Finger21
+  - first:
+      1: 100076
+    second: TP R Finger22
+  - first:
+      1: 100078
+    second: TP R Finger3
+  - first:
+      1: 100080
+    second: TP R Finger31
+  - first:
+      1: 100082
+    second: TP R Finger32
+  - first:
+      1: 100084
+    second: TP R Finger4
+  - first:
+      1: 100086
+    second: TP R Finger41
+  - first:
+      1: 100088
+    second: TP R Finger42
+  - first:
+      1: 100090
+    second: TP R Foot
+  - first:
+      1: 100092
+    second: TP R Forearm
+  - first:
+      1: 100094
+    second: TP R Hand
+  - first:
+      1: 100096
+    second: TP R Thigh
+  - first:
+      1: 100098
+    second: TP R Toe0
+  - first:
+      1: 100100
+    second: TP R UpperArm
+  - first:
+      1: 100102
+    second: TP Spine
+  - first:
+      1: 100104
+    second: TP Spine1
+  - first:
+      1: 100106
+    second: TP Spine2
+  - first:
+      1: 100108
+    second: TPBowtie
+  - first:
+      1: 100110
+    second: TPFDressL
+  - first:
+      1: 100112
+    second: TPFDressS
+  - first:
+      1: 100114
+    second: //RootNode
+  - first:
+      1: 100116
+    second: TPFFeetA
+  - first:
+      1: 100118
+    second: TPFFeetB
+  - first:
+      1: 100120
+    second: TPFFeetC
+  - first:
+      1: 100122
+    second: TPFHairA
+  - first:
+      1: 100124
+    second: TPFHairB
+  - first:
+      1: 100126
+    second: TPFHairC
+  - first:
+      1: 100128
+    second: TPFHairD
+  - first:
+      1: 100130
+    second: TPFHairE
+  - first:
+      1: 100132
+    second: TPFHairF
+  - first:
+      1: 100134
+    second: TPFLeggings
+  - first:
+      1: 100136
+    second: TPFLegsL
+  - first:
+      1: 100138
+    second: TPFLegsS
+  - first:
+      1: 100140
+    second: TPFShirtAL
+  - first:
+      1: 100142
+    second: TPFShirtAS
+  - first:
+      1: 100144
+    second: TPFShirtBL
+  - first:
+      1: 100146
+    second: TPFShirtBS
+  - first:
+      1: 100148
+    second: TPFSkirt
+  - first:
+      1: 100150
+    second: TPFSuit
+  - first:
+      1: 100152
+    second: TPFSweater
+  - first:
+      1: 100154
+    second: TPFTieL
+  - first:
+      1: 100156
+    second: TPFTieS
+  - first:
+      1: 100158
+    second: TPFTshirtB
+  - first:
+      1: 100160
+    second: TPFTshirtL
+  - first:
+      1: 100162
+    second: TPFTshirtS
+  - first:
+      1: 100164
+    second: TPGlasses
+  - first:
+      1: 100166
+    second: TPHEAD
+  - first:
+      1: 100168
+    second: TPHEADsimple
+  - first:
+      1: 100170
+    second: ROOT 1
+  - first:
+      1: 100172
+    second: TP 1
+  - first:
+      1: 100174
+    second: TP Head 1
+  - first:
+      1: 100176
+    second: TP L Calf 1
+  - first:
+      1: 100178
+    second: TP L Clavicle 1
+  - first:
+      1: 100180
+    second: TP L Finger0 1
+  - first:
+      1: 100182
+    second: TP L Finger01 1
+  - first:
+      1: 100184
+    second: TP L Finger02 1
+  - first:
+      1: 100186
+    second: TP L Finger1 1
+  - first:
+      1: 100188
+    second: TP L Finger11 1
+  - first:
+      1: 100190
+    second: TP L Finger12 1
+  - first:
+      1: 100192
+    second: TP L Finger2 1
+  - first:
+      1: 100194
+    second: TP L Finger21 1
+  - first:
+      1: 100196
+    second: TP L Finger22 1
+  - first:
+      1: 100198
+    second: TP L Finger3 1
+  - first:
+      1: 100200
+    second: TP L Finger31 1
+  - first:
+      1: 100202
+    second: TP L Finger32 1
+  - first:
+      1: 100204
+    second: TP L Finger4 1
+  - first:
+      1: 100206
+    second: TP L Finger41 1
+  - first:
+      1: 100208
+    second: TP L Finger42 1
+  - first:
+      1: 100210
+    second: TP L Foot 1
+  - first:
+      1: 100212
+    second: TP L Forearm 1
+  - first:
+      1: 100214
+    second: TP L Hand 1
+  - first:
+      1: 100216
+    second: TP L Thigh 1
+  - first:
+      1: 100218
+    second: TP L Toe0 1
+  - first:
+      1: 100220
+    second: TP L UpperArm 1
+  - first:
+      1: 100222
+    second: TP Neck 1
+  - first:
+      1: 100224
+    second: TP Pelvis 1
+  - first:
+      1: 100226
+    second: TP R Calf 1
+  - first:
+      1: 100228
+    second: TP R Clavicle 1
+  - first:
+      1: 100230
+    second: TP R Finger0 1
+  - first:
+      1: 100232
+    second: TP R Finger01 1
+  - first:
+      1: 100234
+    second: TP R Finger02 1
+  - first:
+      1: 100236
+    second: TP R Finger1 1
+  - first:
+      1: 100238
+    second: TP R Finger11 1
+  - first:
+      1: 100240
+    second: TP R Finger12 1
+  - first:
+      1: 100242
+    second: TP R Finger2 1
+  - first:
+      1: 100244
+    second: TP R Finger21 1
+  - first:
+      1: 100246
+    second: TP R Finger22 1
+  - first:
+      1: 100248
+    second: TP R Finger3 1
+  - first:
+      1: 100250
+    second: TP R Finger31 1
+  - first:
+      1: 100252
+    second: TP R Finger32 1
+  - first:
+      1: 100254
+    second: TP R Finger4 1
+  - first:
+      1: 100256
+    second: TP R Finger41 1
+  - first:
+      1: 100258
+    second: TP R Finger42 1
+  - first:
+      1: 100260
+    second: TP R Foot 1
+  - first:
+      1: 100262
+    second: TP R Forearm 1
+  - first:
+      1: 100264
+    second: TP R Hand 1
+  - first:
+      1: 100266
+    second: TP R Thigh 1
+  - first:
+      1: 100268
+    second: TP R Toe0 1
+  - first:
+      1: 100270
+    second: TP R UpperArm 1
+  - first:
+      1: 100272
+    second: TP Spine 1
+  - first:
+      1: 100274
+    second: TP Spine1 1
+  - first:
+      1: 100276
+    second: TP Spine2 1
+  - first:
+      1: 100278
+    second: TPFHairG
+  - first:
+      1: 100280
+    second: Glasses
+  - first:
+      1: 100282
+    second: HEAD
+  - first:
+      1: 100284
+    second: HEADsimple
+  - first:
+      1: 100286
+    second: TPFHatA
+  - first:
+      1: 100288
+    second: TPFHatB
+  - first:
+      1: 100290
+    second: TPFHatC
+  - first:
+      1: 100292
+    second: TP L Eye
+  - first:
+      1: 100294
+    second: TP R Eye
+  - first:
+      1: 100296
+    second: CHEST
+  - first:
+      1: 100298
+    second: FEET
+  - first:
+      1: 100300
+    second: FEET 1
+  - first:
+      1: 100302
+    second: LEGS
+  - first:
+      1: 100304
+    second: LEGS 1
+  - first:
+      1: 100306
+    second: TPFBowtie
+  - first:
+      1: 100308
+    second: TPFDressL 1
+  - first:
+      1: 100310
+    second: TPFDressS 1
+  - first:
+      1: 100312
+    second: TPFFeetA 1
+  - first:
+      1: 100314
+    second: TPFFeetB 1
+  - first:
+      1: 100316
+    second: TPFFeetC 1
+  - first:
+      1: 100318
+    second: TPFLeggings 1
+  - first:
+      1: 100320
+    second: TPFLegsL 1
+  - first:
+      1: 100322
+    second: TPFLegsS 1
+  - first:
+      1: 100324
+    second: TPFShirtAL 1
+  - first:
+      1: 100326
+    second: TPFShirtAS 1
+  - first:
+      1: 100328
+    second: TPFShirtBL 1
+  - first:
+      1: 100330
+    second: TPFShirtBS 1
+  - first:
+      1: 100332
+    second: TPFSkirt 1
+  - first:
+      1: 100334
+    second: TPFSuit 1
+  - first:
+      1: 100336
+    second: TPFSweater 1
+  - first:
+      1: 100338
+    second: TPFTieL 1
+  - first:
+      1: 100340
+    second: TPFTieS 1
+  - first:
+      1: 100342
+    second: TPFTshirtB 1
+  - first:
+      1: 100344
+    second: TPFTshirtL 1
+  - first:
+      1: 100346
+    second: TPFTshirtS 1
+  - first:
+      1: 100348
+    second: TPFLeggins
+  - first:
+      1: 100350
+    second: TPMBowtie
+  - first:
+      1: 100352
+    second: TPMFeetA
+  - first:
+      1: 100354
+    second: TPMFeetB
+  - first:
+      1: 100356
+    second: TPMLegsL
+  - first:
+      1: 100358
+    second: TPMLegsS
+  - first:
+      1: 100360
+    second: TPMShirtAL
+  - first:
+      1: 100362
+    second: TPMShirtAS
+  - first:
+      1: 100364
+    second: TPMShirtBL
+  - first:
+      1: 100366
+    second: TPMShirtBS
+  - first:
+      1: 100368
+    second: TPMSuit
+  - first:
+      1: 100370
+    second: TPMSweater
+  - first:
+      1: 100372
+    second: TPMTieL
+  - first:
+      1: 100374
+    second: TPMTieS
+  - first:
+      1: 100376
+    second: TPMTshirtB
+  - first:
+      1: 100378
+    second: TPMTshirtL
+  - first:
+      1: 100380
+    second: TPMTshirtS
+  - first:
+      4: 400000
+    second: ROOT
+  - first:
+      4: 400002
+    second: TP
+  - first:
+      4: 400004
+    second: TP Head
+  - first:
+      4: 400006
+    second: TP L Calf
+  - first:
+      4: 400008
+    second: TP L Clavicle
+  - first:
+      4: 400010
+    second: TP L Finger0
+  - first:
+      4: 400012
+    second: TP L Finger01
+  - first:
+      4: 400014
+    second: TP L Finger02
+  - first:
+      4: 400016
+    second: TP L Finger1
+  - first:
+      4: 400018
+    second: TP L Finger11
+  - first:
+      4: 400020
+    second: TP L Finger12
+  - first:
+      4: 400022
+    second: TP L Finger2
+  - first:
+      4: 400024
+    second: TP L Finger21
+  - first:
+      4: 400026
+    second: TP L Finger22
+  - first:
+      4: 400028
+    second: TP L Finger3
+  - first:
+      4: 400030
+    second: TP L Finger31
+  - first:
+      4: 400032
+    second: TP L Finger32
+  - first:
+      4: 400034
+    second: TP L Finger4
+  - first:
+      4: 400036
+    second: TP L Finger41
+  - first:
+      4: 400038
+    second: TP L Finger42
+  - first:
+      4: 400040
+    second: TP L Foot
+  - first:
+      4: 400042
+    second: TP L Forearm
+  - first:
+      4: 400044
+    second: TP L Hand
+  - first:
+      4: 400046
+    second: TP L Thigh
+  - first:
+      4: 400048
+    second: TP L Toe0
+  - first:
+      4: 400050
+    second: TP L UpperArm
+  - first:
+      4: 400052
+    second: TP Neck
+  - first:
+      4: 400054
+    second: TP Pelvis
+  - first:
+      4: 400056
+    second: TP R Calf
+  - first:
+      4: 400058
+    second: TP R Clavicle
+  - first:
+      4: 400060
+    second: TP R Finger0
+  - first:
+      4: 400062
+    second: TP R Finger01
+  - first:
+      4: 400064
+    second: TP R Finger02
+  - first:
+      4: 400066
+    second: TP R Finger1
+  - first:
+      4: 400068
+    second: TP R Finger11
+  - first:
+      4: 400070
+    second: TP R Finger12
+  - first:
+      4: 400072
+    second: TP R Finger2
+  - first:
+      4: 400074
+    second: TP R Finger21
+  - first:
+      4: 400076
+    second: TP R Finger22
+  - first:
+      4: 400078
+    second: TP R Finger3
+  - first:
+      4: 400080
+    second: TP R Finger31
+  - first:
+      4: 400082
+    second: TP R Finger32
+  - first:
+      4: 400084
+    second: TP R Finger4
+  - first:
+      4: 400086
+    second: TP R Finger41
+  - first:
+      4: 400088
+    second: TP R Finger42
+  - first:
+      4: 400090
+    second: TP R Foot
+  - first:
+      4: 400092
+    second: TP R Forearm
+  - first:
+      4: 400094
+    second: TP R Hand
+  - first:
+      4: 400096
+    second: TP R Thigh
+  - first:
+      4: 400098
+    second: TP R Toe0
+  - first:
+      4: 400100
+    second: TP R UpperArm
+  - first:
+      4: 400102
+    second: TP Spine
+  - first:
+      4: 400104
+    second: TP Spine1
+  - first:
+      4: 400106
+    second: TP Spine2
+  - first:
+      4: 400108
+    second: TPBowtie
+  - first:
+      4: 400110
+    second: TPFDressL
+  - first:
+      4: 400112
+    second: TPFDressS
+  - first:
+      4: 400114
+    second: //RootNode
+  - first:
+      4: 400116
+    second: TPFFeetA
+  - first:
+      4: 400118
+    second: TPFFeetB
+  - first:
+      4: 400120
+    second: TPFFeetC
+  - first:
+      4: 400122
+    second: TPFHairA
+  - first:
+      4: 400124
+    second: TPFHairB
+  - first:
+      4: 400126
+    second: TPFHairC
+  - first:
+      4: 400128
+    second: TPFHairD
+  - first:
+      4: 400130
+    second: TPFHairE
+  - first:
+      4: 400132
+    second: TPFHairF
+  - first:
+      4: 400134
+    second: TPFLeggings
+  - first:
+      4: 400136
+    second: TPFLegsL
+  - first:
+      4: 400138
+    second: TPFLegsS
+  - first:
+      4: 400140
+    second: TPFShirtAL
+  - first:
+      4: 400142
+    second: TPFShirtAS
+  - first:
+      4: 400144
+    second: TPFShirtBL
+  - first:
+      4: 400146
+    second: TPFShirtBS
+  - first:
+      4: 400148
+    second: TPFSkirt
+  - first:
+      4: 400150
+    second: TPFSuit
+  - first:
+      4: 400152
+    second: TPFSweater
+  - first:
+      4: 400154
+    second: TPFTieL
+  - first:
+      4: 400156
+    second: TPFTieS
+  - first:
+      4: 400158
+    second: TPFTshirtB
+  - first:
+      4: 400160
+    second: TPFTshirtL
+  - first:
+      4: 400162
+    second: TPFTshirtS
+  - first:
+      4: 400164
+    second: TPGlasses
+  - first:
+      4: 400166
+    second: TPHEAD
+  - first:
+      4: 400168
+    second: TPHEADsimple
+  - first:
+      4: 400170
+    second: ROOT 1
+  - first:
+      4: 400172
+    second: TP 1
+  - first:
+      4: 400174
+    second: TP Head 1
+  - first:
+      4: 400176
+    second: TP L Calf 1
+  - first:
+      4: 400178
+    second: TP L Clavicle 1
+  - first:
+      4: 400180
+    second: TP L Finger0 1
+  - first:
+      4: 400182
+    second: TP L Finger01 1
+  - first:
+      4: 400184
+    second: TP L Finger02 1
+  - first:
+      4: 400186
+    second: TP L Finger1 1
+  - first:
+      4: 400188
+    second: TP L Finger11 1
+  - first:
+      4: 400190
+    second: TP L Finger12 1
+  - first:
+      4: 400192
+    second: TP L Finger2 1
+  - first:
+      4: 400194
+    second: TP L Finger21 1
+  - first:
+      4: 400196
+    second: TP L Finger22 1
+  - first:
+      4: 400198
+    second: TP L Finger3 1
+  - first:
+      4: 400200
+    second: TP L Finger31 1
+  - first:
+      4: 400202
+    second: TP L Finger32 1
+  - first:
+      4: 400204
+    second: TP L Finger4 1
+  - first:
+      4: 400206
+    second: TP L Finger41 1
+  - first:
+      4: 400208
+    second: TP L Finger42 1
+  - first:
+      4: 400210
+    second: TP L Foot 1
+  - first:
+      4: 400212
+    second: TP L Forearm 1
+  - first:
+      4: 400214
+    second: TP L Hand 1
+  - first:
+      4: 400216
+    second: TP L Thigh 1
+  - first:
+      4: 400218
+    second: TP L Toe0 1
+  - first:
+      4: 400220
+    second: TP L UpperArm 1
+  - first:
+      4: 400222
+    second: TP Neck 1
+  - first:
+      4: 400224
+    second: TP Pelvis 1
+  - first:
+      4: 400226
+    second: TP R Calf 1
+  - first:
+      4: 400228
+    second: TP R Clavicle 1
+  - first:
+      4: 400230
+    second: TP R Finger0 1
+  - first:
+      4: 400232
+    second: TP R Finger01 1
+  - first:
+      4: 400234
+    second: TP R Finger02 1
+  - first:
+      4: 400236
+    second: TP R Finger1 1
+  - first:
+      4: 400238
+    second: TP R Finger11 1
+  - first:
+      4: 400240
+    second: TP R Finger12 1
+  - first:
+      4: 400242
+    second: TP R Finger2 1
+  - first:
+      4: 400244
+    second: TP R Finger21 1
+  - first:
+      4: 400246
+    second: TP R Finger22 1
+  - first:
+      4: 400248
+    second: TP R Finger3 1
+  - first:
+      4: 400250
+    second: TP R Finger31 1
+  - first:
+      4: 400252
+    second: TP R Finger32 1
+  - first:
+      4: 400254
+    second: TP R Finger4 1
+  - first:
+      4: 400256
+    second: TP R Finger41 1
+  - first:
+      4: 400258
+    second: TP R Finger42 1
+  - first:
+      4: 400260
+    second: TP R Foot 1
+  - first:
+      4: 400262
+    second: TP R Forearm 1
+  - first:
+      4: 400264
+    second: TP R Hand 1
+  - first:
+      4: 400266
+    second: TP R Thigh 1
+  - first:
+      4: 400268
+    second: TP R Toe0 1
+  - first:
+      4: 400270
+    second: TP R UpperArm 1
+  - first:
+      4: 400272
+    second: TP Spine 1
+  - first:
+      4: 400274
+    second: TP Spine1 1
+  - first:
+      4: 400276
+    second: TP Spine2 1
+  - first:
+      4: 400278
+    second: TPFHairG
+  - first:
+      4: 400280
+    second: Glasses
+  - first:
+      4: 400282
+    second: HEAD
+  - first:
+      4: 400284
+    second: HEADsimple
+  - first:
+      4: 400286
+    second: TPFHatA
+  - first:
+      4: 400288
+    second: TPFHatB
+  - first:
+      4: 400290
+    second: TPFHatC
+  - first:
+      4: 400292
+    second: TP L Eye
+  - first:
+      4: 400294
+    second: TP R Eye
+  - first:
+      4: 400296
+    second: CHEST
+  - first:
+      4: 400298
+    second: FEET
+  - first:
+      4: 400300
+    second: FEET 1
+  - first:
+      4: 400302
+    second: LEGS
+  - first:
+      4: 400304
+    second: LEGS 1
+  - first:
+      4: 400306
+    second: TPFBowtie
+  - first:
+      4: 400308
+    second: TPFDressL 1
+  - first:
+      4: 400310
+    second: TPFDressS 1
+  - first:
+      4: 400312
+    second: TPFFeetA 1
+  - first:
+      4: 400314
+    second: TPFFeetB 1
+  - first:
+      4: 400316
+    second: TPFFeetC 1
+  - first:
+      4: 400318
+    second: TPFLeggings 1
+  - first:
+      4: 400320
+    second: TPFLegsL 1
+  - first:
+      4: 400322
+    second: TPFLegsS 1
+  - first:
+      4: 400324
+    second: TPFShirtAL 1
+  - first:
+      4: 400326
+    second: TPFShirtAS 1
+  - first:
+      4: 400328
+    second: TPFShirtBL 1
+  - first:
+      4: 400330
+    second: TPFShirtBS 1
+  - first:
+      4: 400332
+    second: TPFSkirt 1
+  - first:
+      4: 400334
+    second: TPFSuit 1
+  - first:
+      4: 400336
+    second: TPFSweater 1
+  - first:
+      4: 400338
+    second: TPFTieL 1
+  - first:
+      4: 400340
+    second: TPFTieS 1
+  - first:
+      4: 400342
+    second: TPFTshirtB 1
+  - first:
+      4: 400344
+    second: TPFTshirtL 1
+  - first:
+      4: 400346
+    second: TPFTshirtS 1
+  - first:
+      4: 400348
+    second: TPFLeggins
+  - first:
+      4: 400350
+    second: TPMBowtie
+  - first:
+      4: 400352
+    second: TPMFeetA
+  - first:
+      4: 400354
+    second: TPMFeetB
+  - first:
+      4: 400356
+    second: TPMLegsL
+  - first:
+      4: 400358
+    second: TPMLegsS
+  - first:
+      4: 400360
+    second: TPMShirtAL
+  - first:
+      4: 400362
+    second: TPMShirtAS
+  - first:
+      4: 400364
+    second: TPMShirtBL
+  - first:
+      4: 400366
+    second: TPMShirtBS
+  - first:
+      4: 400368
+    second: TPMSuit
+  - first:
+      4: 400370
+    second: TPMSweater
+  - first:
+      4: 400372
+    second: TPMTieL
+  - first:
+      4: 400374
+    second: TPMTieS
+  - first:
+      4: 400376
+    second: TPMTshirtB
+  - first:
+      4: 400378
+    second: TPMTshirtL
+  - first:
+      4: 400380
+    second: TPMTshirtS
+  - first:
+      23: 2300000
+    second: TPBowtie
+  - first:
+      23: 2300002
+    second: TPGlasses
+  - first:
+      23: 2300004
+    second: Glasses
+  - first:
+      23: 2300006
+    second: TPFHatA
+  - first:
+      23: 2300008
+    second: TPFHatB
+  - first:
+      23: 2300010
+    second: TPFHatC
+  - first:
+      23: 2300012
+    second: FEET
+  - first:
+      23: 2300014
+    second: LEGS
+  - first:
+      23: 2300016
+    second: TPMBowtie
+  - first:
+      23: 2300018
+    second: TPMFeetA
+  - first:
+      23: 2300020
+    second: TPMFeetB
+  - first:
+      23: 2300022
+    second: TPMLegsL
+  - first:
+      23: 2300024
+    second: TPMLegsS
+  - first:
+      23: 2300026
+    second: TPMShirtAL
+  - first:
+      23: 2300028
+    second: TPMShirtAS
+  - first:
+      23: 2300030
+    second: TPMShirtBL
+  - first:
+      23: 2300032
+    second: TPMShirtBS
+  - first:
+      23: 2300034
+    second: TPMSuit
+  - first:
+      23: 2300036
+    second: TPMSweater
+  - first:
+      23: 2300038
+    second: TPMTieL
+  - first:
+      23: 2300040
+    second: TPMTieS
+  - first:
+      23: 2300042
+    second: TPMTshirtB
+  - first:
+      23: 2300044
+    second: TPMTshirtL
+  - first:
+      23: 2300046
+    second: TPMTshirtS
+  - first:
+      33: 3300000
+    second: TPBowtie
+  - first:
+      33: 3300002
+    second: TPGlasses
+  - first:
+      33: 3300004
+    second: Glasses
+  - first:
+      33: 3300006
+    second: TPFHatA
+  - first:
+      33: 3300008
+    second: TPFHatB
+  - first:
+      33: 3300010
+    second: TPFHatC
+  - first:
+      33: 3300012
+    second: FEET
+  - first:
+      33: 3300014
+    second: LEGS
+  - first:
+      33: 3300016
+    second: TPMBowtie
+  - first:
+      33: 3300018
+    second: TPMFeetA
+  - first:
+      33: 3300020
+    second: TPMFeetB
+  - first:
+      33: 3300022
+    second: TPMLegsL
+  - first:
+      33: 3300024
+    second: TPMLegsS
+  - first:
+      33: 3300026
+    second: TPMShirtAL
+  - first:
+      33: 3300028
+    second: TPMShirtAS
+  - first:
+      33: 3300030
+    second: TPMShirtBL
+  - first:
+      33: 3300032
+    second: TPMShirtBS
+  - first:
+      33: 3300034
+    second: TPMSuit
+  - first:
+      33: 3300036
+    second: TPMSweater
+  - first:
+      33: 3300038
+    second: TPMTieL
+  - first:
+      33: 3300040
+    second: TPMTieS
+  - first:
+      33: 3300042
+    second: TPMTshirtB
+  - first:
+      33: 3300044
+    second: TPMTshirtL
+  - first:
+      33: 3300046
+    second: TPMTshirtS
+  - first:
+      43: 4300000
+    second: TPGlasses
+  - first:
+      43: 4300002
+    second: TPBowtie
+  - first:
+      43: 4300004
+    second: TPFLeggings
+  - first:
+      43: 4300006
+    second: TPFTieL
+  - first:
+      43: 4300008
+    second: TPFTieS
+  - first:
+      43: 4300010
+    second: TPFLegsL
+  - first:
+      43: 4300012
+    second: TPFLegsS
+  - first:
+      43: 4300014
+    second: TPFFeetA
+  - first:
+      43: 4300016
+    second: TPFSuit
+  - first:
+      43: 4300018
+    second: TPFSweater
+  - first:
+      43: 4300020
+    second: TPFFeetC
+  - first:
+      43: 4300022
+    second: TPFFeetB
+  - first:
+      43: 4300024
+    second: TPFSkirt
+  - first:
+      43: 4300026
+    second: TPFTshirtB
+  - first:
+      43: 4300028
+    second: TPFShirtAS
+  - first:
+      43: 4300030
+    second: TPFTshirtL
+  - first:
+      43: 4300032
+    second: TPFTshirtS
+  - first:
+      43: 4300034
+    second: TPFShirtAL
+  - first:
+      43: 4300036
+    second: TPFHairD
+  - first:
+      43: 4300038
+    second: TPFHairF
+  - first:
+      43: 4300040
+    second: TPFHairB
+  - first:
+      43: 4300042
+    second: TPFHairA
+  - first:
+      43: 4300044
+    second: TPFHairC
+  - first:
+      43: 4300046
+    second: TPFShirtBS
+  - first:
+      43: 4300048
+    second: TPFShirtBL
+  - first:
+      43: 4300050
+    second: TPFDressS
+  - first:
+      43: 4300052
+    second: TPFDressL
+  - first:
+      43: 4300054
+    second: TPFHairE
+  - first:
+      43: 4300056
+    second: TPHEAD
+  - first:
+      43: 4300058
+    second: TPHEADsimple
+  - first:
+      43: 4300060
+    second: TPFHairG
+  - first:
+      43: 4300062
+    second: Glasses
+  - first:
+      43: 4300064
+    second: HEADsimple
+  - first:
+      43: 4300066
+    second: HEAD
+  - first:
+      43: 4300068
+    second: TPFHatA
+  - first:
+      43: 4300070
+    second: TPFHatB
+  - first:
+      43: 4300072
+    second: TPFHatC
+  - first:
+      43: 4300074
+    second: CHEST
+  - first:
+      43: 4300076
+    second: TPFLeggings
+  - first:
+      43: 4300078
+    second: TPFTieL
+  - first:
+      43: 4300080
+    second: TPFTieS
+  - first:
+      43: 4300082
+    second: TPFLegsL
+  - first:
+      43: 4300084
+    second: TPFLegsS
+  - first:
+      43: 4300086
+    second: TPFFeetA
+  - first:
+      43: 4300088
+    second: TPFSuit
+  - first:
+      43: 4300090
+    second: TPFSweater
+  - first:
+      43: 4300092
+    second: TPFFeetB
+  - first:
+      43: 4300094
+    second: TPFSkirt
+  - first:
+      43: 4300096
+    second: TPFTshirtB
+  - first:
+      43: 4300098
+    second: TPFShirtAS
+  - first:
+      43: 4300100
+    second: TPFTshirtL
+  - first:
+      43: 4300102
+    second: TPFTshirtS
+  - first:
+      43: 4300104
+    second: TPFShirtAL
+  - first:
+      43: 4300106
+    second: TPFShirtBS
+  - first:
+      43: 4300108
+    second: TPFShirtBL
+  - first:
+      43: 4300110
+    second: TPFDressS
+  - first:
+      43: 4300112
+    second: TPFDressL
+  - first:
+      43: 4300114
+    second: TPFBowtie
+  - first:
+      43: 4300116
+    second: FEET
+  - first:
+      43: 4300118
+    second: LEGS
+  - first:
+      43: 4300120
+    second: TPFFeetC
+  - first:
+      43: 4300122
+    second: FEET
+  - first:
+      43: 4300124
+    second: LEGS
+  - first:
+      43: 4300126
+    second: TPFLeggins
+  - first:
+      43: 4300128
+    second: TPMShirtAS
+  - first:
+      43: 4300130
+    second: TPMSuit
+  - first:
+      43: 4300132
+    second: TPMSweater
+  - first:
+      43: 4300134
+    second: TPMShirtBS
+  - first:
+      43: 4300136
+    second: TPMTshirtS
+  - first:
+      43: 4300138
+    second: TPMShirtBL
+  - first:
+      43: 4300140
+    second: TPMShirtAL
+  - first:
+      43: 4300142
+    second: TPMTshirtB
+  - first:
+      43: 4300144
+    second: TPMTshirtL
+  - first:
+      43: 4300146
+    second: TPMBowtie
+  - first:
+      43: 4300148
+    second: TPMFeetA
+  - first:
+      43: 4300150
+    second: TPMFeetB
+  - first:
+      43: 4300152
+    second: TPMLegsL
+  - first:
+      43: 4300154
+    second: TPMLegsS
+  - first:
+      43: 4300156
+    second: TPMTieL
+  - first:
+      43: 4300158
+    second: TPMTieS
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: TPFDressL
+  - first:
+      137: 13700002
+    second: TPFDressS
+  - first:
+      137: 13700004
+    second: TPFFeetA
+  - first:
+      137: 13700006
+    second: TPFFeetB
+  - first:
+      137: 13700008
+    second: TPFFeetC
+  - first:
+      137: 13700010
+    second: TPFHairA
+  - first:
+      137: 13700012
+    second: TPFHairB
+  - first:
+      137: 13700014
+    second: TPFHairC
+  - first:
+      137: 13700016
+    second: TPFHairD
+  - first:
+      137: 13700018
+    second: TPFHairE
+  - first:
+      137: 13700020
+    second: TPFHairF
+  - first:
+      137: 13700022
+    second: TPFLeggings
+  - first:
+      137: 13700024
+    second: TPFLegsL
+  - first:
+      137: 13700026
+    second: TPFLegsS
+  - first:
+      137: 13700028
+    second: TPFShirtAL
+  - first:
+      137: 13700030
+    second: TPFShirtAS
+  - first:
+      137: 13700032
+    second: TPFShirtBL
+  - first:
+      137: 13700034
+    second: TPFShirtBS
+  - first:
+      137: 13700036
+    second: TPFSkirt
+  - first:
+      137: 13700038
+    second: TPFSuit
+  - first:
+      137: 13700040
+    second: TPFSweater
+  - first:
+      137: 13700042
+    second: TPFTieL
+  - first:
+      137: 13700044
+    second: TPFTieS
+  - first:
+      137: 13700046
+    second: TPFTshirtB
+  - first:
+      137: 13700048
+    second: TPFTshirtL
+  - first:
+      137: 13700050
+    second: TPFTshirtS
+  - first:
+      137: 13700052
+    second: TPHEAD
+  - first:
+      137: 13700054
+    second: TPBowtie
+  - first:
+      137: 13700056
+    second: TPHEADsimple
+  - first:
+      137: 13700058
+    second: TPFHairG
+  - first:
+      137: 13700060
+    second: HEAD
+  - first:
+      137: 13700062
+    second: HEADsimple
+  - first:
+      137: 13700064
+    second: TPFHatA
+  - first:
+      137: 13700066
+    second: TPFHatB
+  - first:
+      137: 13700068
+    second: TPFHatC
+  - first:
+      137: 13700070
+    second: CHEST
+  - first:
+      137: 13700072
+    second: FEET
+  - first:
+      137: 13700074
+    second: FEET 1
+  - first:
+      137: 13700076
+    second: LEGS
+  - first:
+      137: 13700078
+    second: LEGS 1
+  - first:
+      137: 13700080
+    second: TPFBowtie
+  - first:
+      137: 13700082
+    second: TPFDressL 1
+  - first:
+      137: 13700084
+    second: TPFDressS 1
+  - first:
+      137: 13700086
+    second: TPFFeetA 1
+  - first:
+      137: 13700088
+    second: TPFFeetB 1
+  - first:
+      137: 13700090
+    second: TPFFeetC 1
+  - first:
+      137: 13700092
+    second: TPFLeggings 1
+  - first:
+      137: 13700094
+    second: TPFLegsL 1
+  - first:
+      137: 13700096
+    second: TPFLegsS 1
+  - first:
+      137: 13700098
+    second: TPFShirtAL 1
+  - first:
+      137: 13700100
+    second: TPFShirtAS 1
+  - first:
+      137: 13700102
+    second: TPFShirtBL 1
+  - first:
+      137: 13700104
+    second: TPFShirtBS 1
+  - first:
+      137: 13700106
+    second: TPFSkirt 1
+  - first:
+      137: 13700108
+    second: TPFSuit 1
+  - first:
+      137: 13700110
+    second: TPFSweater 1
+  - first:
+      137: 13700112
+    second: TPFTieL 1
+  - first:
+      137: 13700114
+    second: TPFTieS 1
+  - first:
+      137: 13700116
+    second: TPFTshirtB 1
+  - first:
+      137: 13700118
+    second: TPFTshirtL 1
+  - first:
+      137: 13700120
+    second: TPFTshirtS 1
+  - first:
+      137: 13700122
+    second: Glasses
+  - first:
+      137: 13700124
+    second: TPFLeggins
+  - first:
+      41386430: 2186277476908879412
+    second: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 02 - Default
+    second: {fileID: 2100000, guid: 6d6483e5e81ab0e4693aa29b199a35c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1212
+    second: {fileID: 2100000, guid: 3e94d83cf0a71bf468198acae30a3518, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HatA01
+    second: {fileID: 2100000, guid: 8d851ac929e475a418b0eddb3accba8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HatB01
+    second: {fileID: 2100000, guid: eeb0c0ee90634a441983da6f6c68b82e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TPBowtie01
+    second: {fileID: 2100000, guid: 52d434fe9bf9bb545ae530e9eebfa391, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TPEyebrows
+    second: {fileID: 2100000, guid: f4075a0596134cc44974194105723fff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TPFDress01
+    second: {fileID: 2100000, guid: 472da41ca3d93c448ac2a988cf0f7eaa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TPFFeet02
+    second: {fileID: 2100000, guid: ee44c42c4cd83d740838abcef9b59e44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TPFHairA01
+    second: {fileID: 2100000, guid: 6c746bdfbeb5d2541915c1f7143324fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TPFHairB01
+    second: {fileID: 2100000, guid: 2dbb10de0694671468601190792954de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TPFHairC01
+    second: {fileID: 2100000, guid: 654b9f15ab773544b8a32e11cd85d2ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TPFHairD01
+    second: {fileID: 2100000, guid: dba823cfcb30a754b8efc89c1053b54c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TPFHairE01
+    second: {fileID: 2100000, guid: 383c4ddf800e6d344a77ad6bc455213c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TPFHairG01
+    second: {fileID: 2100000, guid: 6e353d05f956c404a8506af64221c9fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TPFHatC01
+    second: {fileID: 2100000, guid: 06257e62bf2eb764199655361268869c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TPFShirtA01
+    second: {fileID: 2100000, guid: 1e89fcce5eb1445479fa5a95dd9b9296, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TPFShirtB01
+    second: {fileID: 2100000, guid: e26fd2dee17a6c54fa433ef670312f31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TPFTshirt01
+    second: {fileID: 2100000, guid: 1b41594b2c30da940acda8e9ad3276bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TPFeetA01
+    second: {fileID: 2100000, guid: ded89ee4a58d2ba43b9d55ed7d6c04c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TPFeetB01
+    second: {fileID: 2100000, guid: e3cc5c31892705a4e9018f54b9996379, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TPFemaleA01
+    second: {fileID: 2100000, guid: 3377b94536938b149a01429a3fb3b44a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TPFemaleB01
+    second: {fileID: 2100000, guid: 3e94d83cf0a71bf468198acae30a3518, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TPHairF01
+    second: {fileID: 2100000, guid: 6d6483e5e81ab0e4693aa29b199a35c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TPLegs01
+    second: {fileID: 2100000, guid: ed0710512817e9d4ca78a964edb9fc30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TPMShirtA02
+    second: {fileID: 2100000, guid: fc6c99ca306cbe4448df985bbb39df9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TPMShirtB01
+    second: {fileID: 2100000, guid: 36dd5c6d83fd3484d82ec6261e2ec00a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TPMTshirt01
+    second: {fileID: 2100000, guid: 03469ab232cfd334b8b5bbf5e39e2fd5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TPMaleA01
+    second: {fileID: 2100000, guid: 63b492ad6dd78b54aaddae8b53a0c4f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TPMaleB
+    second: {fileID: 2100000, guid: 8a43609611fc1b4428fb0b8fcb66b4e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TPSuit01
+    second: {fileID: 2100000, guid: 0e1bb083d3766164084d49bfb7a60e6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TPSweater01
+    second: {fileID: 2100000, guid: 7d802e635aaa97043bf0542e46022467, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TPTie01
+    second: {fileID: 2100000, guid: 1e6d9f2c282515d44932967c3c396f45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TPteeth
+    second: {fileID: 2100000, guid: 35c419ca25eb55c4e848862b5e9efcc7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TTHatB01
+    second: {fileID: 2100000, guid: f60aa70bf1af3b948a4ed6588cc393e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TThatA01
+    second: {fileID: 2100000, guid: a8898d3fe0cc54045b23173308336b2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eye3
+    second: {fileID: 2100000, guid: ee5ede12dae7a1e478545b517f7a65da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glassesB01
+    second: {fileID: 2100000, guid: c8f454e8516a3b240b5c4d792e66fbd9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: underwear
+    second: {fileID: 2100000, guid: 3377b94536938b149a01429a3fb3b44a, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 2
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 90
+    normalImportMode: 0
+    tangentImportMode: 0
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 0
+    normalSmoothingSource: 1
+  referencedClips: []
+  importAnimation: 0
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: TP Pelvis
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TP L Thigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TP R Thigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TP L Calf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TP R Calf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TP L Foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TP R Foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TP Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TP Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TP Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TP Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TP L Clavicle
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TP R Clavicle
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TP L UpperArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TP R UpperArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TP L Forearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TP R Forearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TP L Hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TP R Hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TP L Toe0
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TP R Toe0
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TP L Finger0
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TP L Finger01
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TP L Finger02
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TP L Finger1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TP L Finger11
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TP L Finger12
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TP L Finger2
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TP L Finger21
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TP L Finger22
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TP L Finger3
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TP L Finger31
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TP L Finger32
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TP L Finger4
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TP L Finger41
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TP L Finger42
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TP R Finger0
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TP R Finger01
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TP R Finger02
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TP R Finger1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TP R Finger11
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TP R Finger12
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TP R Finger2
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TP R Finger21
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TP R Finger22
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TP R Finger3
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TP R Finger31
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TP R Finger32
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TP R Finger4
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TP R Finger41
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TP R Finger42
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TP Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TP L Eye
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TP R Eye
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: TPFemaleB(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0.00000056594536, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CHEST
+      parentName: TPFemaleB(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FEET
+      parentName: TPFemaleB(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: HEAD
+      parentName: TPFemaleB(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: HEADsimple
+      parentName: TPFemaleB(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LEGS
+      parentName: TPFemaleB(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ROOT
+      parentName: TPFemaleB(Clone)
+      position: {x: -0, y: 0, z: 0.000000019073486}
+      rotation: {x: -0.0000000059624403, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TP
+      parentName: ROOT
+      position: {x: -0, y: 0.805141, z: -0.000000019472276}
+      rotation: {x: -0.50000036, y: 0.49999964, z: 0.49999964, w: 0.50000036}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TP Pelvis
+      parentName: TP
+      position: {x: -3.3227643e-10, y: 0, z: 0.027864099}
+      rotation: {x: 0.5, y: -0.5, z: -0.5, w: -0.5}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TP L Thigh
+      parentName: TP Pelvis
+      position: {x: 0.00000015258789, y: 0.00000014963851, z: 0.08252427}
+      rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+      scale: {x: 1.0000019, y: 1.0000017, z: 1.0000013}
+    - name: TP L Calf
+      parentName: TP L Thigh
+      position: {x: -0.35973087, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000025, y: 1.0000026, z: 1.000002}
+    - name: TP L Foot
+      parentName: TP L Calf
+      position: {x: -0.35973084, y: 0.0000000023841857, z: 0.000000009536743}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000004, z: 1.0000002}
+    - name: TP L Toe0
+      parentName: TP L Foot
+      position: {x: -0.08927858, y: 0.096715495, z: 0}
+      rotation: {x: 0, y: 0, z: 0.7071068, w: -0.7071068}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1.0000002}
+    - name: TP R Thigh
+      parentName: TP Pelvis
+      position: {x: -0.00000015258789, y: -0.00000007925085, z: -0.08252427}
+      rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+      scale: {x: 1.0000015, y: 1.0000014, z: 1.0000011}
+    - name: TP R Calf
+      parentName: TP R Thigh
+      position: {x: -0.35973087, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000026, y: 1.000003, z: 1.000002}
+    - name: TP R Foot
+      parentName: TP R Calf
+      position: {x: -0.35973078, y: 0.0000000017881393, z: 0.000000009536743}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000007, y: 1.000001, z: 1.0000006}
+    - name: TP R Toe0
+      parentName: TP R Foot
+      position: {x: -0.08927858, y: 0.096715495, z: 0}
+      rotation: {x: 0, y: 0, z: 0.7071068, w: -0.7071068}
+      scale: {x: 1.0000002, y: 0.99999994, z: 1.0000002}
+    - name: TP Spine
+      parentName: TP Pelvis
+      position: {x: -0.094902955, y: -0.00011386138, z: 0.00000013176934}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999993, y: 0.9999986, z: 0.9999994}
+    - name: TP Spine1
+      parentName: TP Spine
+      position: {x: -0.14304198, y: -0.00011390067, z: -3.1591496e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000012, z: 1.0000013}
+    - name: TP Spine2
+      parentName: TP Spine1
+      position: {x: -0.14304207, y: -0.00011390082, z: -3.1591524e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.000001, y: 1.0000008, z: 1.0000023}
+    - name: TP L Clavicle
+      parentName: TP Spine2
+      position: {x: -0.054868087, y: -0.020230744, z: 0.03623034}
+      rotation: {x: 0.7071068, y: -0.000000030908623, z: -0.7071068, w: 0.000000030908623}
+      scale: {x: 0.99999887, y: 0.9999997, z: 0.99999976}
+    - name: TP L UpperArm
+      parentName: TP L Clavicle
+      position: {x: -0.07787371, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000005, y: 1.000003, z: 1.0000036}
+    - name: TP L Forearm
+      parentName: TP L UpperArm
+      position: {x: -0.22349305, y: -0.0000000023841857, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000018, z: 1}
+    - name: TP L Hand
+      parentName: TP L Forearm
+      position: {x: -0.22349304, y: 0.000000019073486, z: 0}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: -0.7071068}
+      scale: {x: 0.9999996, y: 1.0000033, z: 1.0000017}
+    - name: TP L Finger0
+      parentName: TP L Hand
+      position: {x: -0.020693816, y: 0.0004409027, z: -0.037518807}
+      rotation: {x: 0, y: 0.3826835, z: 0, w: -0.9238795}
+      scale: {x: 1, y: 1.0000046, z: 1.0000002}
+    - name: TP L Finger01
+      parentName: TP L Finger0
+      position: {x: -0.050902978, y: 0, z: 0.000000076293944}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.000002, y: 1.0000025, z: 0.9999996}
+    - name: TP L Finger02
+      parentName: TP L Finger01
+      position: {x: -0.027070045, y: 0.000000076293944, z: -0.000000076293944}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000008, z: 1.000001}
+    - name: TP L Finger1
+      parentName: TP L Hand
+      position: {x: -0.0846117, y: -0.0011400604, z: -0.033369083}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000026, z: 1.0000036}
+    - name: TP L Finger11
+      parentName: TP L Finger1
+      position: {x: -0.027670363, y: 0, z: -0.000000076293944}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000006, y: 1.000005, z: 1.0000035}
+    - name: TP L Finger12
+      parentName: TP L Finger11
+      position: {x: -0.027670344, y: 0.00000015258789, z: 0.000000076293944}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 0.9999998, z: 1.0000005}
+    - name: TP L Finger2
+      parentName: TP L Hand
+      position: {x: -0.08890213, y: -0.0037903595, z: -0.0066911313}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000011, z: 1.0000018}
+    - name: TP L Finger21
+      parentName: TP L Finger2
+      position: {x: -0.027682913, y: 0, z: -0.000000019073486}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000019, y: 1.000003, z: 1.000003}
+    - name: TP L Finger22
+      parentName: TP L Finger21
+      position: {x: -0.027682876, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999887, y: 0.9999992, z: 0.9999977}
+    - name: TP L Finger3
+      parentName: TP L Hand
+      position: {x: -0.08609097, y: 0.0006027984, z: 0.01862131}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000011, z: 1.0000024}
+    - name: TP L Finger31
+      parentName: TP L Finger3
+      position: {x: -0.027943954, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000024, z: 1.0000024}
+    - name: TP L Finger32
+      parentName: TP L Finger31
+      position: {x: -0.027943917, y: 0, z: 0.000000019073486}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000008, y: 1.0000039, z: 1.0000031}
+    - name: TP L Finger4
+      parentName: TP L Hand
+      position: {x: -0.079725415, y: 0.014958114, z: 0.03567072}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000013, y: 1.0000043, z: 1.0000051}
+    - name: TP L Finger41
+      parentName: TP L Finger4
+      position: {x: -0.02501293, y: 0, z: -0.000000019073486}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000008, y: 1.0000029, z: 1.0000012}
+    - name: TP L Finger42
+      parentName: TP L Finger41
+      position: {x: -0.02501293, y: 0, z: -0.000000057220458}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000011, y: 1.0000037, z: 1.0000026}
+    - name: TP Neck
+      parentName: TP Spine2
+      position: {x: -0.10331467, y: -0.016711868, z: -0.000000026352037}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999997, y: 0.9999996, z: 0.99999934}
+    - name: TP Head
+      parentName: TP Neck
+      position: {x: -0.09106796, y: 0.0000000011920929, z: 2.2737367e-15}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000017, y: 1.0000017, z: 1.0000026}
+    - name: Glasses
+      parentName: TP Head
+      position: {x: -0.14531632, y: 0.10399458, z: 0.00000045776363}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TP L Eye
+      parentName: TP Head
+      position: {x: -0.13958237, y: 0.049466733, z: 0.01636841}
+      rotation: {x: -0.5, y: 0.5, z: 0.5, w: 0.5}
+      scale: {x: 0.99999994, y: 0.99999976, z: 0.99999976}
+    - name: TP R Eye
+      parentName: TP Head
+      position: {x: -0.13958237, y: 0.049240418, z: -0.0164888}
+      rotation: {x: -0.5, y: 0.5, z: 0.5, w: 0.5}
+      scale: {x: 0.99999994, y: 0.99999976, z: 0.99999976}
+    - name: TP R Clavicle
+      parentName: TP Spine2
+      position: {x: -0.054868087, y: -0.020230543, z: -0.036230456}
+      rotation: {x: 0.7071068, y: -0.000000030908623, z: 0.7071068, w: -0.000000030908623}
+      scale: {x: 0.9999992, y: 0.9999991, z: 0.9999995}
+    - name: TP R UpperArm
+      parentName: TP R Clavicle
+      position: {x: -0.07787371, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000019, y: 1.0000012, z: 1.0000035}
+    - name: TP R Forearm
+      parentName: TP R UpperArm
+      position: {x: -0.22349307, y: -0.0000000023841857, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000029, y: 1.0000014, z: 1.0000012}
+    - name: TP R Hand
+      parentName: TP R Forearm
+      position: {x: -0.223493, y: -0.000000057220458, z: 0}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+      scale: {x: 0.99999946, y: 1.0000013, z: 0.9999985}
+    - name: TP R Finger0
+      parentName: TP R Hand
+      position: {x: -0.02069374, y: 0.000440979, z: 0.037518844}
+      rotation: {x: 0, y: 0.38268346, z: 0, w: 0.9238795}
+      scale: {x: 1.000004, y: 1.0000033, z: 1.0000002}
+    - name: TP R Finger01
+      parentName: TP R Finger0
+      position: {x: -0.050903015, y: 0.000000076293944, z: -0.000000038146972}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000025, z: 1.0000011}
+    - name: TP R Finger02
+      parentName: TP R Finger01
+      position: {x: -0.027070045, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000023, y: 1.0000036, z: 1.0000036}
+    - name: TP R Finger1
+      parentName: TP R Hand
+      position: {x: -0.084611736, y: -0.0011400604, z: 0.0333691}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000032, y: 1.0000015, z: 0.9999984}
+    - name: TP R Finger11
+      parentName: TP R Finger1
+      position: {x: -0.027670326, y: 0.000000076293944, z: 0.000000038146972}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000029, y: 1.0000037, z: 0.9999992}
+    - name: TP R Finger12
+      parentName: TP R Finger11
+      position: {x: -0.02767042, y: 0.00000015258789, z: -0.000000038146972}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000033, y: 1.0000042, z: 1.0000014}
+    - name: TP R Finger2
+      parentName: TP R Hand
+      position: {x: -0.08890209, y: -0.0037903595, z: 0.0066911695}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000019, y: 1.0000007, z: 1.0000013}
+    - name: TP R Finger21
+      parentName: TP R Finger2
+      position: {x: -0.027682913, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000039, y: 1.0000048, z: 1.0000005}
+    - name: TP R Finger22
+      parentName: TP R Finger21
+      position: {x: -0.027682876, y: 0, z: -0.000000019073486}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 1.0000008, z: 0.999999}
+    - name: TP R Finger3
+      parentName: TP R Hand
+      position: {x: -0.08609092, y: 0.0006027984, z: -0.018621292}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000061, y: 1.0000008, z: 1}
+    - name: TP R Finger31
+      parentName: TP R Finger3
+      position: {x: -0.027943954, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000025, y: 1.0000045, z: 1.0000004}
+    - name: TP R Finger32
+      parentName: TP R Finger31
+      position: {x: -0.027943917, y: 0.000000076293944, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 1.000004, z: 1.0000011}
+    - name: TP R Finger4
+      parentName: TP R Hand
+      position: {x: -0.079725415, y: 0.014958191, z: -0.035670698}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000035, y: 1.0000045, z: 1.0000017}
+    - name: TP R Finger41
+      parentName: TP R Finger4
+      position: {x: -0.02501293, y: 0, z: 0.000000019073486}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000029, y: 1.0000048, z: 1.0000007}
+    - name: TP R Finger42
+      parentName: TP R Finger41
+      position: {x: -0.02501293, y: 0, z: 0.000000019073486}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999998, y: 1.000002, z: 1.0000019}
+    - name: TPFBowtie
+      parentName: TPFemaleB(Clone)
+      position: {x: -0, y: -0.01128479, z: 0.0028662109}
+      rotation: {x: 0.000000021855694, y: 0.0000014305115, z: -3.126482e-14, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TPFDressL
+      parentName: TPFemaleB(Clone)
+      position: {x: -0.0000000016826851, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TPFDressS
+      parentName: TPFemaleB(Clone)
+      position: {x: -0.0000000016826851, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TPFFeetA
+      parentName: TPFemaleB(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TPFFeetB
+      parentName: TPFemaleB(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TPFFeetC
+      parentName: TPFemaleB(Clone)
+      position: {x: -0, y: 0, z: 0.008550786}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TPFHairA
+      parentName: TPFemaleB(Clone)
+      position: {x: 0.0000003480911, y: 1.3321933, z: -0.016671013}
+      rotation: {x: 0.0000004073017, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TPFHairB
+      parentName: TPFemaleB(Clone)
+      position: {x: 0.00000011920929, y: 1.3321928, z: -0.0166709}
+      rotation: {x: -0.00000015695824, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TPFHairC
+      parentName: TPFemaleB(Clone)
+      position: {x: -0.00000015258789, y: 1.330471, z: -0.01667093}
+      rotation: {x: -0.00000015695824, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TPFHairD
+      parentName: TPFemaleB(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TPFHairE
+      parentName: TPFemaleB(Clone)
+      position: {x: -0.00000015258789, y: 1.3268086, z: -0.016670927}
+      rotation: {x: 0.0000004073017, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TPFHairF
+      parentName: TPFemaleB(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TPFHairG
+      parentName: TPFemaleB(Clone)
+      position: {x: -0, y: 0.007017517, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TPFHatA
+      parentName: TPFemaleB(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TPFHatB
+      parentName: TPFemaleB(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TPFHatC
+      parentName: TPFemaleB(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TPFLeggins
+      parentName: TPFemaleB(Clone)
+      position: {x: -0.0000000016826851, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TPFLegsL
+      parentName: TPFemaleB(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TPFLegsS
+      parentName: TPFemaleB(Clone)
+      position: {x: -0.0000000016826851, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TPFShirtAL
+      parentName: TPFemaleB(Clone)
+      position: {x: -0.0000000016826851, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TPFShirtAS
+      parentName: TPFemaleB(Clone)
+      position: {x: -0.0000000016826851, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TPFShirtBL
+      parentName: TPFemaleB(Clone)
+      position: {x: -0.0000000016826851, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TPFShirtBS
+      parentName: TPFemaleB(Clone)
+      position: {x: -0.0000000016826851, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TPFSkirt
+      parentName: TPFemaleB(Clone)
+      position: {x: -0.0000000016826851, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TPFSuit
+      parentName: TPFemaleB(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TPFSweater
+      parentName: TPFemaleB(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TPFTieL
+      parentName: TPFemaleB(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TPFTieS
+      parentName: TPFemaleB(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TPFTshirtB
+      parentName: TPFemaleB(Clone)
+      position: {x: -0.0000000016826851, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TPFTshirtL
+      parentName: TPFemaleB(Clone)
+      position: {x: -0.0000000016826851, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TPFTshirtS
+      parentName: TPFemaleB(Clone)
+      position: {x: -0.0000000016826851, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 1
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
